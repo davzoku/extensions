@@ -49,11 +49,11 @@ VSCode is my primary code editor of choice. The extensions are mainly to enhance
 | [Rainbow CSV](https://marketplace.visualstudio.com/items/?itemName=mechatroner.rainbow-csv)                           | Syntax highlighting for CSV                          |             |
 | [vscode-edit-csv](https://marketplace.visualstudio.com/items/?itemName=janisdd.vscode-edit-csv)                       | View and edit CSV in tabular format similar to Excel |             |
 
-## 📝 Obsidian
+## 🧠 Obsidian
 
 [Obsidian](https://obsidian.md) is my go-to tool for Personal Knowledge Management, serving as a second brain for everything from AI and software engineering to data workflows and personal productivity.
 
-For a research-focused Second Brain workflow, check out [davzoku/paperwise](https://github.com/davzoku/paperwise) that integrates Obsidian with [Zotero](https://www.zotero.org/) and other supporting tools to streamline academic and technical research.
+For a research-focused Second Brain workflow, check out [davzoku/paperwise](https://github.com/davzoku/paperwise) that integrates Obsidian with [Zotero](https://www.zotero.org/) and other supporting tools to streamline academic research.
 
 | Name             | Description                                                       | Built by Me |
 | ---------------- | ----------------------------------------------------------------- | :---------: |
@@ -69,11 +69,11 @@ For a research-focused Second Brain workflow, check out [davzoku/paperwise](http
 
 ---
 
-## ⚡ Raycast
+## ♦️ Raycast
 
 Raycast has emerged as my go-to productivity tool, replacing Alfred and Spotlight. It offers a powerful command palette that allows me to quickly access resources the way I prefer. With built-in features like clipboard history, Focus Session, and Quicklinks, Raycast helps me stay in flow and minimize context switching throughout the day.
 
-I use [Karabiner Elements](https://karabiner-elements.pqrs.org/) and [Hammerspoon(https://www.hammerspoon.org/) for Hyperkey setup as I use a combination of `HyperKey` and `Little HyperKey`. Refer to [davzoku/dotfiles](https://github.com/davzoku/dotfiles) for more details.
+I use [Karabiner Elements](https://karabiner-elements.pqrs.org/) and [Hammerspoon](https://www.hammerspoon.org/) for Hyperkey setup as I use a more advanced combination of `HyperKey` and `HyperShiftKey` in my workflow. Refer to [davzoku/dotfiles](https://github.com/davzoku/dotfiles/blob/master/macos-base/hammerspoon-app/base-init.lua) for more details.
 
 | Name                                                                                 | Description                                                                    | Built by Me |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | :---------: |
